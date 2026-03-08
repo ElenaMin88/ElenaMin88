@@ -23,6 +23,4 @@
 ![Retro Gaming](https://img.shields.io/badge/Hobby-Retro%20Gaming-E91E63?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
 ### 📊 Real-time Contribution (Inc. Private)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElenaMin88&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Elena's GitHub Stats" />
-</div>
+![Elena's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElenaMin88&show_icons=true&count_private=true&theme=radical&hide_border=true)
