@@ -10,7 +10,7 @@
 
 ### 🧠 Beyond Coding
 ![Game Planning](https://img.shields.io/badge/Role-Game%20Planner-FFD700?style=for-the-badge&logo=unity&logoColor=white)
-![Remote Dev](https://img.shields.io/badge/Workflow-Mobile%20Remote%20Dev-525252?style=for-the-badge&logo=tailscale&logoColor=white)
+![Availability](https://img.shields.io/badge/Availability-24%2F7%20Remote-brightgreen?style=for-the-badge&logo=linux&logoColor=white)
 ![INTJ](https://img.shields.io/badge/MBTI-INTJ-004B50?style=for-the-badge&logo=target&logoColor=white)
 
 ### 📋 Life Management & Leadership
